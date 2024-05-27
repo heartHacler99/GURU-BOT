@@ -73,14 +73,14 @@ global.APIKeys = {
 // Sticker WM
 global.botname = process.env.BOTNAME
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ'
+global.packname = 'Heart_Hacker'
 global.author = 'ᴳᵘʳᵘ ˢᵉⁿˢᵉⁱ'
 global.menuvid = 'https://i.imgur.com/AjDzGgG.mp4'
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/guru.json\n'
-global.dygp = 'https://chat.whatsapp.com/F3sB3pR3tClBvVmlIkqDJp'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT'
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/heart_hacker_99g?igsh=ZGs0YnZnd3hwcGt6
+global.dygp = 'https://whatsapp.com/channel/0029VaZOL6DBPzjRioTG9H1O'
+global.fgsc = 'https://github.com/HeartHacker452'
+global.fgyt = 'https://youtube.com/@Hearthacker99395'
+global.fgpyp = 'https://youtube.com/@Hearthacker99395'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
 
